@@ -12,7 +12,7 @@
 
 int main()
 {
-     clrscr();
+  clrscr();
               printf("Enter Student  Name: ");
               gets(report.name);
 

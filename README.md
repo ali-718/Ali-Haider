@@ -10,9 +10,10 @@
                     float per;
                  } report;
 
-int main()
-{
-  clrscr();
+   int main()
+     {
+       clrscr();
+       
               printf("Enter Student  Name: ");
               gets(report.name);
 
